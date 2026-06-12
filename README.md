@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chris Munene Kinyua 👋</h1>
-<h3 align="center">Software Developer · Backend & Web Security · Kiambu, Kenya</h3>
+<h3 align="center">Software Developer · Backend & Web Security · Nairobi, Kenya</h3>
 
 <p align="center">
   I build secure, full-stack web and backend applications — RESTful APIs, payment integrations
